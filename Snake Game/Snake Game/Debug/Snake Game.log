@@ -1,10 +1,2 @@
-﻿  Update.cpp
-c:\users\merol\source\repos\snake game\snake game\update.cpp(11): error C2065: 'window': undeclared identifier
-c:\users\merol\source\repos\snake game\snake game\update.cpp(14): error C2065: 'window': undeclared identifier
-c:\users\merol\source\repos\snake game\snake game\update.cpp(17): error C2065: 'window': undeclared identifier
-c:\users\merol\source\repos\snake game\snake game\update.cpp(20): error C2065: 'window': undeclared identifier
-c:\users\merol\source\repos\snake game\snake game\update.cpp(21): error C2761: 'void Window::WindowDraw(Map)': redeclaration of member is not allowed
-c:\users\merol\source\repos\snake game\snake game\update.cpp(22): error C2065: 'window': undeclared identifier
-  Window.cpp
-c:\users\merol\source\repos\snake game\snake game\window.cpp(14): error C2065: 'window': undeclared identifier
-  Generating Code...
+﻿  Main.cpp
+  Snake Game.vcxproj -> C:\Users\merol\source\repos\Snake Game\Debug\Snake Game.exe

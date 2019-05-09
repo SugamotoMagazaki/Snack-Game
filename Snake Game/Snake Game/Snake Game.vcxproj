@@ -126,14 +126,13 @@
     <ClCompile Include="Map.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Snake.cpp" />
-    <ClCompile Include="Update.cpp" />
-    <ClCompile Include="Window.cpp" />
+    <ClCompile Include="MWindow.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Defines.h" />
     <ClInclude Include="Map.h" />
     <ClInclude Include="Snake.h" />
-    <ClInclude Include="Update.h" />
-    <ClInclude Include="Window.h" />
+    <ClInclude Include="mWindow.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

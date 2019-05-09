@@ -1,7 +1,7 @@
 #include <SFML/Graphics.hpp>
 #include "Update.h"
 #include <iostream>
-#include "Window.h"
+#include "mWindow.h"
 #include "Map.h"
 
 using namespace std;
